@@ -18,4 +18,4 @@
 1. list รูป
 -เรียบร้อยแล้วครับ
 
-ติดต่อ api ด้วย postman ครับ ตามไฟล์
+ติดต่อ api ด้วย postman ครับ ตามไฟล์ go-api.postman_collection.json
