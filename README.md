@@ -1,4 +1,4 @@
-ใช่ Database เป็น mysql ครับ
+ใช้ Database เป็น mysql ครับ
 
 ## features
 
