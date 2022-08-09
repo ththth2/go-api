@@ -1,3 +1,5 @@
+ใช่ Database เป็น mysql ครับ
+
 ## features
 
 1. สมัครสมาชิก
